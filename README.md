@@ -1,4 +1,4 @@
-这里是蛋仔的仓库
+这里是蛋仔的仓库[DZ'S github](https://github.com/DanZai233)
 
 这里是蛋仔的博客[DZ'S Blog](https://www.danzaii.cn)
 
