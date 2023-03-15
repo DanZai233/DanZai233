@@ -1,6 +1,6 @@
 这里是蛋仔的仓库[DZ'S github](https://github.com/DanZai233)
 
-这里是蛋仔的博客[DZ'S Blog](https://www.danzaii.cn)
+这里是蛋仔的博客[DZ'S Blog](https://danzaii.cn)
 
 欢迎前来一起学习
 <!---
