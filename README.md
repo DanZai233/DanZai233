@@ -5,6 +5,7 @@
 欢迎前来一起学习
 
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanZai233)](https://github.com/DanZai233/github-readme-stats)
+[![Your Name's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanZai233)](https://github.com/DanZai233)
 
 ![Your Name's visitors](https://visitor-badge.glitch.me/badge?page_id=DanZai233.DanZai233)
 
