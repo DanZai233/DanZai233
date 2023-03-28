@@ -4,8 +4,11 @@
 
 欢迎前来一起学习
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanZai233)](https://github.com/DanZai233/github-readme-stats)
+[![Your Name's GitHub Repos](https://github-readme-stats.vercel.app/api?username=DanZai233&show_icons=true&count_private=true)](https://github.com/DanZai233)
+[![Your Name's GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)](https://github.com/yourusername)
 [![Your Name's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanZai233)](https://github.com/DanZai233)
+[![Your Name's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DanZai233)](https://github.com/DanZai233)
+
 
 ![Your Name's visitors](https://visitor-badge.glitch.me/badge?page_id=DanZai233.DanZai233)
 
