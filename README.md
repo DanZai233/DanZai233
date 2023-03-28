@@ -6,6 +6,7 @@
 
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanZai233)](https://github.com/DanZai233/github-readme-stats)
 
+![Your Name's visitors](https://visitor-badge.glitch.me/badge?page_id=DanZai233.DanZai233)
 
 <!---
 DanZai233/DanZai233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
