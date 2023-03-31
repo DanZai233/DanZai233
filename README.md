@@ -4,8 +4,10 @@
 
 欢迎前来一起学习
 
+[![:name](https://count.getloli.com/get/@DanZai233?theme=asoul)](https://github.com/DanZai233)
+
 [![Your Name's GitHub Repos](https://github-readme-stats.vercel.app/api?username=DanZai233&show_icons=true&theme=radical)](https://github.com/DanZai233)
-[![Your Name's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanZai233)](https://github.com/DanZai233)
+
 
 
 
