@@ -13,7 +13,6 @@
 
 
 
-![Your Name's visitors](https://visitor-badge.glitch.me/badge?page_id=DanZai233.DanZai233)
 
 <!---
 DanZai233/DanZai233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
