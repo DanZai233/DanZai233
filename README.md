@@ -6,8 +6,6 @@
 
 [![:name](https://count.getloli.com/get/@DanZai233?theme=asoul)](https://github.com/DanZai233)
 
-[![GitHub Repos](https://github-readme-stats.vercel.app/api?username=DanZai233&show_icons=true&theme=radical)](https://github.com/DanZai233)
-
 
 上了班后感觉都没时间做自己的东西了 大家都这样的吗？
 
